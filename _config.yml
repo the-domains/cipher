@@ -2,6 +2,7 @@ name: cipher
 favicon: null
 layout_spectrum: 0.020850158063694835
 typography_spectrum: 0.8327087126672268
+title: Cipher
 cta:
   domain: null
   bucket: null
